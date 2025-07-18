@@ -106,4 +106,3 @@ For technical support or questions about the dashboard, please contact the Ahmed
 © Ahmed's Sports - All rights reserved
 ```
 
-This README file provides a comprehensive overview of your Ahmed's Sports dashboard, documenting all the features and metrics visible in the screenshots you provided. It's structured to help users understand the dashboard's capabilities and navigate through its various sections effectively.
